@@ -88,7 +88,6 @@ int main(int argc, char *argv[]) {
 				break;
 			default:
 				usage();
-				break;
 		}
 	argc -= optind;
 	argv += optind;
@@ -178,6 +177,7 @@ static int copy(char *argv[], enum op type, int fts_options) {
 				badcp = rval = 1;
 				continue;
 			default:
+				;
 		}
 		if (type != FILE_TO_FILE) {
 			if (curr->fts_level == FTS_ROOTLEVEL) {
@@ -292,7 +292,6 @@ static int copy(char *argv[], enum op type, int fts_options) {
 			default:
 				if (copy_file(curr, dne))
 					badcp = rval = 1;
-				break;
 		}
 		if (vflag && !badcp)
 			(void)printf("%s -> %s\n", curr->fts_path, to.p_path);
