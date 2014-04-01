@@ -21,3 +21,6 @@ Move /kerberos5 and /secure to /O-S/Export-Controlled/
 Create /Compatibility with freebsd conversion
 
 
+Rebuild documentation
+
+Create GUI for compilation and kernel configure
