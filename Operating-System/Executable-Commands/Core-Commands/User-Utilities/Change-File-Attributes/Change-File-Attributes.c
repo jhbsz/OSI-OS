@@ -108,7 +108,7 @@ int main(int argc, char *argv[]) {
 				if (!hflag)
 					continue;
 			default:
-				break;
+				;
 		}
 		if (oct)
 			newflags = set;
