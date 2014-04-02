@@ -13,3 +13,8 @@ Operating System Directory
  * Linux/
 * Devices/
 * Executable-Commands/
+ * 
+* Header-Files
+* Libraries
+* Licenses
+* Tests
