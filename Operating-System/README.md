@@ -7,7 +7,7 @@ Operating System Directory
 
 
 **Directory Structure**
-/Operating-System/
+(/Operating-System/)
 * Compatibility/
  * FreeBSD/
  * Linux/
