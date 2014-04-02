@@ -1,4 +1,4 @@
-__**OSI OS Development Repository**__
+_**OSI OS Development Repository**_
 Operating System Directory
 ==========================
 
