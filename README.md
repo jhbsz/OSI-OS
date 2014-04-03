@@ -11,7 +11,14 @@ Operating System Directory
 
 
 **Project Goals**
-* 
+* Reform FreeBSD to:
+ * have smaller code repository size,
+ * utilize a new method of storing external source code files
+  * such as documentation, configuration, and compilation information,
+ * incorporate a more meaningful file naming scheme,
+ * be simpler to customize and deploy,
+ * exclude software licensed with the GPL,
+ * 
 
 
 **Directory Structure** (/)
