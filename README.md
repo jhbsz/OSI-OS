@@ -10,6 +10,10 @@ Operating System Directory
 * Operating system for general purpose computer systems.
 
 
+**Project Goals**
+* 
+
+
 **Directory Structure** (/)
 * Applications
 * Operating-System
