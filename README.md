@@ -1,26 +1,29 @@
-OSIOS
-=====
+_**OSI OS Development Repository**_
+Operating System Directory
+--------------------------
 
-Operating system for general purpose computer systems
-
-Todo:
-
-Migrate /bin with better file names
-
-Migrate /sbin with better file names
-
-Migrate /usr.bin with better file names
-
-Migrate /usr.sbin with better file names
+**Github URL**
+* [JustinMuniz/OSI-OS](https://github.com/JustinMuniz/OSI-OS)
 
 
-Remember to update shell path
-
-Move /kerberos5 and /secure to /O-S/Export-Controlled/
-
-Create /Compatibility with freebsd conversion
+**Project Description**
+* Operating system for general purpose computer systems.
 
 
-Rebuild documentation
+**Directory Structure** (/)
+* Applications
+* Operating-System
+* User-Data
 
-Create GUI for compilation and kernel configure
+
+**Reminders**
+* Migrate executable commands to locations with file names to provide understanding
+ * /bin
+ * /sbin
+ * /usr.bin
+ * /usr.sbin
+* Remember to update shell paths
+* Move /kerberos5 and /secure to /O-S/Export-Controlled/
+* Create /Compatibility with freebsd conversion
+* Rebuild documentation
+* Create GUI for compilation and kernel configure
