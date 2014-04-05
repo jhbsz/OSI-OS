@@ -38,3 +38,4 @@ Operating System Directory
 * Create /Compatibility with freebsd conversion
 * Rebuild documentation
 * Create GUI for compilation and kernel configure
+* Delete OSI-OS / cddl / contrib / dtracetoolkit / Examples / Readme
