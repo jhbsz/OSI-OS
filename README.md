@@ -40,3 +40,4 @@ Repository Root Directory
 * Create GUI for compilation and kernel configure
 * Delete OSI-OS / cddl / contrib / dtracetoolkit / Examples / Readme
 * Delete OSI-OS / cddl / contrib / dtracetoolkit / Man / man1m
+* Finish clearing OSI-OS / cddl / contrib / dtracetoolkit
