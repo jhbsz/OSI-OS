@@ -39,6 +39,6 @@ Repository Root Directory
 * Rebuild documentation
 * Create GUI for compilation and kernel configure
 * Delete OSI-OS / cddl / contrib / dtracetoolkit / Examples / Readme
-* Delete OSI-OS / cddl / contrib / dtracetoolkit / Man / man1m
+* Delete OSI-OS / cddl / contrib / dtracetoolkit / Man
 * Delete  History OSI-OS / cddl / contrib / dtracetoolkit / Notes
 * Finish clearing OSI-OS / cddl / contrib / dtracetoolkit
