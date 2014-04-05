@@ -1,5 +1,5 @@
 _**OSI OS Development Repository**_
-Operating System Directory
+Repository Root Directory
 --------------------------
 
 **Github URL**
@@ -39,3 +39,4 @@ Operating System Directory
 * Rebuild documentation
 * Create GUI for compilation and kernel configure
 * Delete OSI-OS / cddl / contrib / dtracetoolkit / Examples / Readme
+* Delete OSI-OS / cddl / contrib / dtracetoolkit / Man / man1m
